@@ -237,7 +237,7 @@ The original dataset is included in this repository.
 
  Qualified Finance Professional | Aspiring Data Analyst**
 
-GitHub: [My GitHub Profile](https://github.com/nisha74pro)
+GitHub: [My GitHub Profile](https://github.com/PRamesh747)
 
 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/poornisha-ramesh)
 
